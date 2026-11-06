@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/watercare_asset/__init__.py
+src/watercare_asset/engine.py
+src/watercare_asset_data_product.egg-info/PKG-INFO
+src/watercare_asset_data_product.egg-info/SOURCES.txt
+src/watercare_asset_data_product.egg-info/dependency_links.txt
+src/watercare_asset_data_product.egg-info/requires.txt
+src/watercare_asset_data_product.egg-info/top_level.txt
+tests/test_engine.py
